@@ -1,5 +1,5 @@
-
-
+#### vi .bashrc ####
+#### Write 'export PATH=$HOME/commands:$PATH' ####
 #### mkdir ~/commands ####
 #### cd ~/commands ####
 #### vi ssgit ####
