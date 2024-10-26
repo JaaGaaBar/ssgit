@@ -1,4 +1,4 @@
-## ssgit ##
+# ssgit #
  
 #### mkdir ~/commands ####
 #### vi ~/.bashrc ####
