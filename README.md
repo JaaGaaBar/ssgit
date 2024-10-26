@@ -1,2 +1,7 @@
-#!/bin/sh
-ssh -T git@github.com
+#### mkdir ~/commands ####
+cd ~/commands
+vi ssgit
+
+
+
+chmod 755 ssgit
